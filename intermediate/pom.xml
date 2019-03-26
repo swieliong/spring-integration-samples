@@ -50,4 +50,7 @@
     <developerConnection>scm:git:scm:git:ssh://git@github.com:spring-projects/spring-integration-samples.git</developerConnection>
     <url>https://github.com/spring-projects/spring-integration-samples</url>
   </scm>
+  <modules>
+    <module>exceptionhandling</module>
+  </modules>
 </project>

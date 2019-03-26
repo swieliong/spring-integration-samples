@@ -86,6 +86,7 @@ This category targets developers who are already more familiar with the Spring I
 * **dynamic-poller** - Example shows usage of a **Poller** with a custom **Trigger** to change polling periods at runtime
 * **async-gateway** - Example shows usage of an **Asynchronous Gateway**
 * **errorhandling** - Demonstrates basic **Error Handling** capabilities of Spring Integration
+* **exceptionhandling** - Demonstrates basic **ControllerAdvice** capabilities of Spring Integration
 * **file-processing** - Sample demonstrates how to wire a message flow to process files either sequentially (maintain the order) or concurrently (no order).
 * **mail-attachments** - Demonstrates the processing of email attachments
 * **monitoring** The project used in the *[Spring Integration Management and Monitoring Webinar](https://www.springsource.org/node/3598)* Also available on the *[SpringSourceDev YouTube Channel](https://www.youtube.com/SpringSourceDev)*
