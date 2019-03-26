@@ -2,6 +2,7 @@ application.log
 application.log*
 target/
 bin/
+out/
 log.roo
 .project
 .classpath
