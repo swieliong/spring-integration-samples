@@ -7,7 +7,7 @@
 - Handle the Access Denied in Spring Security - https://www.baeldung.com/exception-handling-for-rest-with-spring
 
 Step to run:
-1. Compile and the run
+1. mvn spring-boot:run
 2. Using postman go to:
     localhost:8080/employee2 Employee is not found, so ResourceNotFoundException is thrown. Response code is sent as 404.
     localhost:8080/employee3 EmployeeServiceException is thrown. Response code is sent as 500.
